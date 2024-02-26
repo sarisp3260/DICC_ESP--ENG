@@ -24,4 +24,4 @@ The program offers three difficulty levels:
 
 ## Contributions
 
-Contributions to the project are welcome! If you have any suggestions for improvements or new features, feel free to submit a pull request.
+Contributions to the project are welcome! If you have any suggestions for improvements or new features, feel free to submit a pull request :D.
