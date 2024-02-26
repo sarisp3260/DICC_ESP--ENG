@@ -25,7 +25,3 @@ The program offers three difficulty levels:
 ## Contributions
 
 Contributions to the project are welcome! If you have any suggestions for improvements or new features, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
